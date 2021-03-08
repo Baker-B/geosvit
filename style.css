@@ -1,0 +1,150 @@
+body {
+font-family:Arial, Helvetica, sans-serif; font-size:14px;
+margin:0; padding:0;
+background:#4b7ed8 url(images/sky.jpg) no-repeat right top;
+color:#444b5b;
+}
+
+table {
+border-collapse:collapse;
+width:100%;
+font-size:100%;
+}
+td {
+padding:0;
+vertical-align:top;
+}
+
+a {
+color:#669900;
+}
+
+a img {border:0}
+
+#layout {
+width:766px;
+}
+
+h3 {
+margin:0;
+padding:10px 0 10px 0;
+font-weight:normal;
+font-size:18px;
+color:#3f5a99;
+}
+h2 {
+font-size:24px;
+font-weight:normal;
+}
+#menu {
+height:30px;
+background:#819dde url(images/menu_left.gif) no-repeat left;
+font-size:12px;
+}
+#menu table {
+height:30px;
+}
+#menu td {
+padding:0 0 0 0;
+}
+#menu a {
+color:#FFFFFF;
+display:block;
+height:30px;
+line-height:30px;
+padding:0 20px 0 20px;
+}
+#menu .current a {
+padding:0 30px 0 0;
+background:url(images/menu_current_right.gif) no-repeat right;
+text-decoration:none;
+font-weight:bold;
+text-align:center;
+
+}
+#menu .current {
+background:url(images/menu_current_left.gif) no-repeat left;
+padding:0 0 0 30px;
+}
+#menu #icons {
+padding:4px 0 0 0;
+text-align:center;
+vertical-align:middle;
+width:50px;
+background:#FFFFFF url(images/right.gif) no-repeat top right;
+}
+#menu #icons a {
+display:inline;
+padding:0;
+height:auto;
+margin:0 10px 0 10px;
+}
+#c_body {
+background:#f9fafc url(images/border_right.gif) repeat-y right;
+padding:30px 30px 30px 30px;
+}
+#c_body #panel {
+background:#eef2fb;
+margin:0 0 0 0;
+}
+#c_body #panel h3 {
+padding:10px 30px 10px 30px
+}
+#c_body #panel .price {
+font-size:12px;
+text-align:right;
+padding:12px 30px 0 0
+}
+#c_body #panel .price a {
+color:#333333;
+}
+#c_body #panel .price img {
+margin-bottom:-2px;
+margin-right:5px
+}
+#c_body #panel #submenu {
+background:#d1dbf3;
+}
+#c_body #panel #submenu a {
+color:#333333;
+}
+#c_body #panel #submenu a.current {
+
+text-decoration:none;
+}
+#c_body #panel #submenu .other {
+text-align:right;
+padding-right:30px;
+}
+#c_body #panel #submenu .other a {
+color: #666666;
+}
+#c_body #panel #submenu .new {
+text-align:left;
+padding-left:30px;
+}
+#c_body #panel #submenu .new a {
+font-weight:bold;
+}
+#c_body #panel #submenu table {
+height:30px;
+}
+#c_body #panel #submenu table td {
+vertical-align:middle;
+text-align:center;
+}
+.cols {
+font-size:12px;
+width:646px;
+}
+.cols p {
+margin:5px 0 0 0;
+}
+.item img {
+border:1px #444b5b solid;
+}
+#footer {
+background:url(images/footer.gif) no-repeat top;
+font-size:12px;
+color:#FFFFFF;
+}

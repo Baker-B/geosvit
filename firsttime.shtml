@@ -1,0 +1,63 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta name="owner" content="IPTelecom Ltd.">
+   <meta name="author" content="George L. Yermulnik">
+   <title>First Time Welcome Page</title>
+   <link rel="SHORTCUT ICON" href="http://hosting.iptelecom.ua/ico/ipt2.gif">
+</head>
+<body bgcolor="#F9F3E8" link="#003399" vlink="#003399" marginwidth="0" marginheight="0" leftmargin="10" topmargin="0">
+
+<h1>
+<p align=center><br><a href=http://www.iptelecom.ua>ООО "Ай Пи Телеком"</a></p>
+</h1>
+
+<hr ALIGN=center WIDTH="90%" height="4px">
+
+<p align=center>
+Если Вы видите данную страницу, это значит, что услуга "<b>Хостинг веб-ресурса</b>" для Вашего доменного имени <b><i><!--#echo var="SERVER_NAME"--></i></b> уже активирована.<br>
+<font color=red>
+Для её использования Вам необходимо закачать свой веб-сайт на <b>ftp://<!--#echo var="SERVER_NAME"--></b>, используя для подключения свой логин и пароль.<br>
+Стартовая страничка веб-сайта <b>должна</b> называться <b>index.html (.htm, .shtml .shtm, .cgi, .php или .phtml)</b>.<br>
+Найти ответы на часто задаваемые вопросы по использованию услуги "<b>Хостинг веб-ресурса</b>" можно здесь: <a href=http://hosting.iptelecom.ua/FAQ/>http://hosting.iptelecom.ua/FAQ/</a>
+</font>
+<br><br>
+Если у Вас возникли вопросы, обращайтесь в <a href=http://support.net.ua/>службу Технической поддержки</a> нашей компании:<br>
+тел: 8 (044) 502-2025, 
+e-mail: <a href="mailto:support@iptelecom.ua">support@iptelecom.ua</a>
+</font></font>
+
+<br>
+</p>
+
+<hr ALIGN=center WIDTH="90%" height="4px"></h1>
+
+<br><br>
+
+<h1>
+<p align=center><br><a href=http://www.iptelecom.ua>IPTelecom Ltd.</a></p>
+</h1>
+
+<hr ALIGN=center WIDTH="90%" height="4px">
+
+<p align=center>
+Seeing this page means that the service "<b>Web-Hosting</b>" is already activated for your domain name <b><i><!--#echo var="SERVER_NAME"--></i></b><br>
+<font color=red>
+To start using it you have to upload your web-site to <b>ftp://<!--#echo var="SERVER_NAME"--></b> using your login and password.<br>
+Web-site start page <b>should</b> be named <b>index.html (.htm, .shtml .shtm, .cgi, .php or .phtml)</b>.<br>
+You can find Frequently Asked Questions on using "<b>Web-Hosting</b>" service here: <a href=http://hosting.iptelecom.ua/FAQ/>http://hosting.iptelecom.ua/FAQ/</a>
+</font>
+<br><br>
+If you have any questions don't hesitate to contact our <a href=http://support.net.ua/>Technical Support Dept.</a>:<br>
+tel: 8 (044) 502-2025, 
+e-mail: <a href="mailto:support@iptelecom.ua">support@iptelecom.ua</a>
+</font></font>
+
+<br>
+</p>
+
+<hr ALIGN=center WIDTH="90%" height="4px">
+
+</body>
+
+</html>
